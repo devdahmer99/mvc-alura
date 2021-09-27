@@ -16,7 +16,7 @@ class EntityManagerCreator
         $dbParams = array(
             'driver' => 'pdo_mysql',
             'host' => 'localhost',
-            'dbname' => 'curso_doctrine',
+            'dbname' => 'mvc',
             'user' => 'root',
             'password' => '1099'
         );

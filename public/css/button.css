@@ -1,0 +1,11 @@
+.button {
+    margin:5px;
+    padding:5px;
+    text-decoration: none;
+    color:#ffff;
+}
+a,
+a:hover {
+    text-decoration:none;
+    color:#ffff;
+}
